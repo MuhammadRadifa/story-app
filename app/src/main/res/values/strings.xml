@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title">Tim Berners-Lee</string>
+    <string name="description">
+        Sir Tim Berners-Lee invented the World Wide Web while at CERN, the European Particle Physics Laboratory, in 1989. He wrote the first web client and server in 1990. His specifications of URIs, HTTP and HTML were refined as Web technology spread.
+        He is the co-founder and CTO of Inrupt.com, a tech start-up that uses, promotes and helps develop the open source Solid platform. Solid aims to give people control and agency over their data, questioning many assumptions about how the web has to work. Solid technically is a new level of standard at the web layer, which adds features never put into the original spec, such as global single sign-on, universal access control, and a universal data API so that any app can store data in any storage place. Socially Solid is a movement away from much of the issues with the current WWW, and toward a world in which users are in control, and empowered by large amounts of data, private, shared, and public.
+        Sir Tim is the Founder, Emeritus Director, and an Honorary Member of the Board of Directors of the World Wide Web Consortium (W3C), a Web standards organization that he founded in 1994 which develops interoperable technologies (specifications, guidelines, software, and tools) to lead the Web to its full potential. He is a Director of the World Wide Web Foundation that was launched in 2009 to coordinate efforts to further the potential of the Web to benefit humanity.
+    </string>
+    <string name="login">Login</string>
+    <string name="email">Email Address</string>
+    <string name="email_hint">Your Email Address</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Your Password</string>
+    <string name="dont_have_account">Dont Have Account?</string>
+    <string name="register_here">Register here</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already Have An Account?</string>
+    <string name="login_here">Login here</string>
+    <string name="username">Username</string>
+    <string name="your_username">Your username</string>
+    <string name="settings">Settings</string>
+    <string name="password_require">(must be at least 8 characters)</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="add">add</string>
+    <string name="image">image</string>
+    <string name="logout">Logout</string>
+    <string name="language">Language</string>
+    <string name="darkmode">darkmode</string>
+    <string name="gallery">gallery</string>
+    <string name="camera">camera</string>
+    <string name="description_content">description</string>
+    <string name="fill_the_description_here">Fill the description here</string>
+    <string name="upload">upload</string>
+    <string name="empty_image_warning">empty image warning</string>
+    <string name="empty_description_warning">please fill the description</string>
+    <string name="appwidget_text">STORY APP</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="empty_text">empty text</string>
+    <string name="minimum_characters">password minimum at least 8 character </string>
+    <string name="camera_error">failed to open camera</string>
+    <string name="maps">open maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="style_error">maps can\'t get style</string>
+    <string name="add_your_location">add your current location?</string>
+    <string name="retry">Retry Load</string>
+</resources>

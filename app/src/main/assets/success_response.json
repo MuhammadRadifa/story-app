@@ -1,0 +1,9 @@
+{
+  "error": false,
+  "message": "success",
+  "loginResult": {
+    "userId": "user-umqiidrwztH6SIPk",
+    "name": "John Cena",
+    "token": "eyJhbGciOiakjdsnIUzI1NiIssdlsmdcCI6IkpXVCJ9.eyJ1c2VySsdmiJ1c2VyLXVtcWlpZHJ3enRskddnlNJUGsiLCJpYXQiOjE3MTE5Mjg3NjR9.0HCs2u3zTLCIJ75fvPTpJegtHHo3MM6i_kcISq3oUVI"
+  }
+}

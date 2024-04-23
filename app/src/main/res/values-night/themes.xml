@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryApp" parent="Theme.Material3.DayNight">
+        <item name="android:statusBarColor">@color/orange</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="textFillColor">@color/white</item>
+        <item name="color">@color/black_tertiary</item>
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <style name="primaryBackground" parent="">
+        <item name="android:background">@color/black_secondary</item>
+    </style>
+
+    <style name="cardViewContainerBackground" parent="">
+        <item name="android:backgroundTint">@color/black_tertiary</item>
+    </style>
+</resources>

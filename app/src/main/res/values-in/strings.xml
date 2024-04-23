@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title">Tim Berners-Lee</string>
+    <string name="description">
+    Sir Tim Berners-Lee menemukan World Wide Web saat berada di CERN, Laboratorium Fisika Partikel Eropa, pada tahun 1989. Dia menulis klien dan server web pertama pada tahun 1990. Spesifikasi URIs, HTTP, dan HTML-nya disempurnakan saat teknologi Web menyebar.
+    Dia adalah salah satu pendiri dan CTO dari Inrupt.com, sebuah perusahaan teknologi yang menggunakan, mempromosikan, dan membantu mengembangkan platform Solid sumber terbuka. Solid bertujuan untuk memberikan kontrol dan agensi kepada orang atas data mereka, mempertanyakan banyak asumsi tentang bagaimana web harus berfungsi. Solid secara teknis adalah tingkat standar baru di lapisan web, yang menambahkan fitur yang tidak pernah dimasukkan ke dalam spesifikasi asli, seperti sign-on tunggal global, kontrol akses universal, dan API data universal sehingga setiap aplikasi dapat menyimpan data di mana pun. Sosialnya, Solid adalah gerakan menjauh dari banyak masalah dengan WWW saat ini, dan menuju dunia di mana pengguna memiliki kontrol, dan diberdayakan oleh sejumlah besar data, pribadi, bersama, dan publik.
+    Sir Tim adalah Pendiri, Direktur Emeritus, dan Anggota Kehormatan Dewan Direktur World Wide Web Consortium (W3C), sebuah organisasi standar web yang ia dirikan pada tahun 1994 yang mengembangkan teknologi interoperabilitas (spesifikasi, pedoman, perangkat lunak, dan alat) untuk memimpin Web menuju potensinya sepenuhnya. Dia adalah Direktur Yayasan World Wide Web yang diluncurkan pada tahun 2009 untuk mengkoordinasikan upaya untuk lebih jauh potensi Web untuk keuntungan umat manusia.
+    </string>
+    <string name="login">Masuk</string>
+    <string name="email">Alamat Email</string>
+    <string name="email_hint">Alamat Email Anda</string>
+    <string name="password">Kata Sandi</string>
+    <string name="password_hint">Kata Sandi Anda</string>
+    <string name="dont_have_account">Belum Punya Akun?</string>
+    <string name="register_here">Daftar di sini</string>
+    <string name="register">Daftar</string>
+    <string name="already_have_an_account">Sudah Punya Akun?</string>
+    <string name="login_here">Masuk di sini</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="your_username">Nama pengguna Anda</string>
+    <string name="settings">Pengaturan</string>
+    <string name="password_require">(minimal 8 karakter)</string>
+    <string name="please_wait">Mohon Tunggu…</string>
+    <string name="add">tambah</string>
+    <string name="image">gambar</string>
+    <string name="logout">Keluar</string>
+    <string name="language">Bahasa</string>
+    <string name="darkmode">mode gelap</string>
+    <string name="gallery">galeri</string>
+    <string name="camera">kamera</string>
+    <string name="description_content">deskripsi</string>
+    <string name="fill_the_description_here">Isi deskripsi di sini</string>
+    <string name="upload">unggah</string>
+    <string name="empty_image_warning">empty image</string>
+    <string name="empty_description_warning">isi form description</string>
+    <string name="appwidget_text">CERITA</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget aplikasi</string>
+    <string name="empty_text">teks kosong</string>
+    <string name="minimum_characters">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="camera_error">gagal membuka kamera</string>
+    <string name="maps">buka maps</string>
+    <string name="title_activity_maps">Aktivitas Peta</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Terain</string>
+    <string name="hybrid_type">Campuran</string>
+    <string name="style_error">maps tidak bisa menampilkan style</string>
+    <string name="add_your_location">tambah lokasi saat ini ?</string>
+    <string name="retry">Muat Ulang</string>
+</resources>
